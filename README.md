@@ -18,7 +18,7 @@ The dataset used in this project was provided through a Udemy course on [Python 
 
 **- Data Manipulation & Analysis –** filtering, grouping, aggregating, merging datasets, performing correlation analysis using Pandas & NumPy.
 
-- **Data Visualization & Dashboarding –** building charts and plots with Seaborn & Matplotlib to highlight trends and insights.
+**- Data Visualization & Dashboarding –** building charts and plots with Seaborn & Matplotlib to highlight trends and insights.
 
 **- Feature Engineering –** creating new metrics to track user engagement, churn patterns, and content preferences.
 
